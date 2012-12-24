@@ -2,11 +2,11 @@ PImage img1, img2, img3, img4, img5;
 
 void setup() {
   size(2620, 2620);
-  img1 = loadImage("ming1.jpg");
-  img2 = loadImage("ming1.jpg");
-  img3 = loadImage("ming1.jpg");
-  img4 = loadImage("ming1.jpg");
-  img5 = loadImage("ming1.jpg");
+  img1 = loadImage("ming2.jpg");
+  img2 = loadImage("ming2.jpg");
+  img3 = loadImage("ming2.jpg");
+  img4 = loadImage("ming2.jpg");
+  img5 = loadImage("ming2.jpg");
   noLoop();
 }
 
